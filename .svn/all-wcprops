@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/eoecn/android-app/!svn/ver/92/trunk/source
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/eoecn/android-app/!svn/ver/91/trunk/source/.classpath
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eoecn/android-app/!svn/ver/46/trunk/source/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/eoecn/android-app/!svn/ver/7/trunk/source/.project
+END
+.fatjar
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/eoecn/android-app/!svn/ver/8/trunk/source/.fatjar
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/eoecn/android-app/!svn/ver/7/trunk/source/.gitignore
+END
+lint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/eoecn/android-app/!svn/ver/7/trunk/source/lint.xml
+END
+proguard-project.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eoecn/android-app/!svn/ver/7/trunk/source/proguard-project.txt
+END
+qr.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/eoecn/android-app/!svn/ver/92/trunk/source/qr.png
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eoecn/android-app/!svn/ver/90/trunk/source/AndroidManifest.xml
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eoecn/android-app/!svn/ver/48/trunk/source/src/cn/eoe/app/biz
+END
+NewsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eoecn/android-app/!svn/ver/48/trunk/source/src/cn/eoe/app/biz/NewsDao.java
+END
+DiscussDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eoecn/android-app/!svn/ver/8/trunk/source/src/cn/eoe/app/biz/DiscussDao.java
+END
+UserDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eoecn/android-app/!svn/ver/8/trunk/source/src/cn/eoe/app/biz/UserDao.java
+END
+DetailDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eoecn/android-app/!svn/ver/48/trunk/source/src/cn/eoe/app/biz/DetailDao.java
+END
+TopDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/eoecn/android-app/!svn/ver/8/trunk/source/src/cn/eoe/app/biz/TopDao.java
+END
+WikiDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eoecn/android-app/!svn/ver/48/trunk/source/src/cn/eoe/app/biz/WikiDao.java
+END
+SearchDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eoecn/android-app/!svn/ver/48/trunk/source/src/cn/eoe/app/biz/SearchDao.java
+END
+BlogsDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eoecn/android-app/!svn/ver/48/trunk/source/src/cn/eoe/app/biz/BlogsDao.java
+END
+BaseDao.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eoecn/android-app/!svn/ver/8/trunk/source/src/cn/eoe/app/biz/BaseDao.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/eoecn/android-app/!svn/ver/46/trunk/source/src/com/google/zxing/camera
+END
+FlashlightManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eoecn/android-app/!svn/ver/46/trunk/source/src/com/google/zxing/camera/FlashlightManager.java
+END
+CameraManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eoecn/android-app/!svn/ver/46/trunk/source/src/com/google/zxing/camera/CameraManager.java
+END
+AutoFocusCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/eoecn/android-app/!svn/ver/46/trunk/source/src/com/google/zxing/camera/AutoFocusCallback.java
+END
+CameraConfigurationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/eoecn/android-app/!svn/ver/46/trunk/source/src/com/google/zxing/camera/CameraConfigurationManager.java
+END
+PlanarYUVLuminanceSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/eoecn/android-app/!svn/ver/46/trunk/source/src/com/google/zxing/camera/PlanarYUVLuminanceSource.java
+END
+PreviewCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eoecn/android-app/!svn/ver/46/trunk/source/src/com/google/zxing/camera/PreviewCallback.java
+END

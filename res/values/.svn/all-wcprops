@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/eoecn/android-app/!svn/ver/74/trunk/source/res/values
+END
+colors.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eoecn/android-app/!svn/ver/49/trunk/source/res/values/colors.xml
+END
+indicator__defaults.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eoecn/android-app/!svn/ver/7/trunk/source/res/values/indicator__defaults.xml
+END
+styles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eoecn/android-app/!svn/ver/74/trunk/source/res/values/styles.xml
+END
+umeng_update_string.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/eoecn/android-app/!svn/ver/7/trunk/source/res/values/umeng_update_string.xml
+END
+strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/eoecn/android-app/!svn/ver/61/trunk/source/res/values/strings.xml
+END
+umeng_fb_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eoecn/android-app/!svn/ver/7/trunk/source/res/values/umeng_fb_strings.xml
+END
+umeng_common_strings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eoecn/android-app/!svn/ver/7/trunk/source/res/values/umeng_common_strings.xml
+END
+attrs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eoecn/android-app/!svn/ver/7/trunk/source/res/values/attrs.xml
+END
+dimens.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eoecn/android-app/!svn/ver/49/trunk/source/res/values/dimens.xml
+END
+ids.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eoecn/android-app/!svn/ver/47/trunk/source/res/values/ids.xml
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/eoecn/android-app/!svn/ver/89/trunk/source/src/cn/eoe/app/view
+END
+NewsFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eoecn/android-app/!svn/ver/89/trunk/source/src/cn/eoe/app/view/NewsFragment.java
+END
+BlogsItemLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/view/BlogsItemLayout.java
+END
+UserCollectListFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/view/UserCollectListFragment.java
+END
+BlogFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eoecn/android-app/!svn/ver/89/trunk/source/src/cn/eoe/app/view/BlogFragment.java
+END
+WikiFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/eoecn/android-app/!svn/ver/89/trunk/source/src/cn/eoe/app/view/WikiFragment.java
+END
+UserCollectFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eoecn/android-app/!svn/ver/8/trunk/source/src/cn/eoe/app/view/UserCollectFragment.java
+END
+BaseListFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/view/BaseListFragment.java
+END
+UserLogOutFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eoecn/android-app/!svn/ver/8/trunk/source/src/cn/eoe/app/view/UserLogOutFragment.java
+END
+HttpErrorFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/view/HttpErrorFragment.java
+END
+UserIntroFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eoecn/android-app/!svn/ver/46/trunk/source/src/cn/eoe/app/view/UserIntroFragment.java
+END

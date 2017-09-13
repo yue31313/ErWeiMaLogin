@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/db
+END
+DBManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/db/DBManager.java
+END
+DBProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/db/DBProvider.java
+END
+DetailColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/db/DetailColumn.java
+END
+BlogColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/db/BlogColumn.java
+END
+DatabaseColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/db/DatabaseColumn.java
+END
+ImageCacheColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/db/ImageCacheColumn.java
+END
+DBHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/db/DBHelper.java
+END
+NewsColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/db/NewsColumn.java
+END
+RequestCacheColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/db/RequestCacheColumn.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/eoecn/android-app/!svn/ver/46/trunk/source/libs
+END
+umeng_sdk.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/eoecn/android-app/!svn/ver/7/trunk/source/libs/umeng_sdk.jar
+END
+android-support-v4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eoecn/android-app/!svn/ver/7/trunk/source/libs/android-support-v4.jar
+END
+zxing-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/eoecn/android-app/!svn/ver/46/trunk/source/libs/zxing-1.6.jar
+END
+jackson-all-1.9.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/eoecn/android-app/!svn/ver/7/trunk/source/libs/jackson-all-1.9.2.jar
+END

@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/eoecn/android-app/!svn/ver/48/trunk/source/src/cn/eoe/app/entity
+END
+CommentEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/CommentEntity.java
+END
+BlogsJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/BlogsJson.java
+END
+DetailsDiscussItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/DetailsDiscussItem.java
+END
+WikiMoreResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/WikiMoreResponse.java
+END
+UserJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/UserJson.java
+END
+UserFavoriteList.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/UserFavoriteList.java
+END
+FavoriteEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/FavoriteEntity.java
+END
+DetailsDiscussJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/DetailsDiscussJson.java
+END
+NewsMoreResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/NewsMoreResponse.java
+END
+UserLikeEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/UserLikeEntity.java
+END
+BlogsResponseEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/BlogsResponseEntity.java
+END
+WikiSearchJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/WikiSearchJson.java
+END
+DetailBarEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/DetailBarEntity.java
+END
+NewsContentItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eoecn/android-app/!svn/ver/48/trunk/source/src/cn/eoe/app/entity/NewsContentItem.java
+END
+WikiCategoryListEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/WikiCategoryListEntity.java
+END
+NewsSearchJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/NewsSearchJson.java
+END
+DetailJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/DetailJson.java
+END
+UserResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/UserResponse.java
+END
+CategorysEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/CategorysEntity.java
+END
+WikiJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/WikiJson.java
+END
+DetailsOwnDiscussJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/DetailsOwnDiscussJson.java
+END
+DetailsDiscussResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/DetailsDiscussResponse.java
+END
+NewsCategoryListEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/NewsCategoryListEntity.java
+END
+BlogSearchJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/BlogSearchJson.java
+END
+NewsJson.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/NewsJson.java
+END
+BlogsMoreResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/BlogsMoreResponse.java
+END
+UserInfoItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/UserInfoItem.java
+END
+UserCollectionItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/UserCollectionItem.java
+END
+WikiContentItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/WikiContentItem.java
+END
+DetailResponseEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/DetailResponseEntity.java
+END
+WikiResponseEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/WikiResponseEntity.java
+END
+NavigationModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/NavigationModel.java
+END
+DetailsOwnDiscussResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/DetailsOwnDiscussResponse.java
+END
+UserIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/UserIcon.java
+END
+NewsResponseEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/NewsResponseEntity.java
+END
+BlogContentItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/eoecn/android-app/!svn/ver/48/trunk/source/src/cn/eoe/app/entity/BlogContentItem.java
+END
+BlogsCategoryListEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/BlogsCategoryListEntity.java
+END

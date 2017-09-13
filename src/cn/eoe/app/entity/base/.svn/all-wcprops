@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/eoecn/android-app/!svn/ver/48/trunk/source/src/cn/eoe/app/entity/base
+END
+BaseContentList.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/base/BaseContentList.java
+END
+BaseResponseData.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eoecn/android-app/!svn/ver/48/trunk/source/src/cn/eoe/app/entity/base/BaseResponseData.java
+END
+BaseContentItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/base/BaseContentItem.java
+END
+BaseContentDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/base/BaseContentDetail.java
+END
+BaseLoadMoreEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/eoecn/android-app/!svn/ver/7/trunk/source/src/cn/eoe/app/entity/base/BaseLoadMoreEntity.java
+END
